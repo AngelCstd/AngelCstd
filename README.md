@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelcstd" alt="angelcstd" /></a> </p>
 
-- 🌱 Actualmente estoy aprendiendo **React**
+- 🌱 Actualmente estoy en el programa **Launch X por parte de Microsoft**
 
 - 💬 Preguntame sobre **Java, JS, HTML, CSS, SASS**
 
